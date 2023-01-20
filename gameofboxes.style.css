@@ -14,7 +14,7 @@
   height: 2rem;
   background-color: #ff8a80;
   /* Position properties below this line */
-  /* position: relative; */
+  position: relative;
   z-index: 1;
   /* Position properties above this line */
 }
@@ -31,7 +31,7 @@
   /* Position properties above this line */
 }
 
-#child-3 {
+#child-3 {w
   width: 2rem;
   height: 2rem;
   background-color: #ffee58;
