@@ -1,0 +1,44 @@
+body {
+  background: #ffe4c4;
+  font-family: "Inter", sans-serif;
+}
+html {
+  font-size: 62.5%;
+}
+.blog-card {
+  min-width: 12.8rem;
+  max-width: 25.6rem;
+  border-radius: 1rem;
+  margin:1rem;
+  margin-bottom: 1rem;
+  background: rgb(255, 250, 250);
+  border-top: 1px solid black;
+}
+.card-body h2 {
+  font-size: 1.27999rem;
+  text-transform: uppercase;
+  margin-bottom: 0.64rem;
+}
+.card-body h1 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+.card-body p {
+  opacity: 60%;
+  font-size: 1.44rem;
+}
+p a:link {
+  text-decoration: none;
+  color: rgb(109, 109, 235);
+}
+p a:visited {
+  color: rgb(109, 109, 235);
+}
+.card-img img {
+  height: 22rem;
+  width:22rem;
+}
+.card-footer{
+  display:flex;
+  justify-content: space-between;
+}
